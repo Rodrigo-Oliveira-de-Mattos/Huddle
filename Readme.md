@@ -1,6 +1,6 @@
 # Huddle landing page with a single introductory section - Frontend Mentor
 
-## Introdução
+## Sobre
 
 Nesse projeto, foi desenvolvido um site responsivo usando Flexbox
 
