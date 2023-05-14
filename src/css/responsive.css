@@ -1,9 +1,7 @@
 @media(min-width: 870px){
     html{
-        background: url(../../images/bg-desktop.svg);
-        background-color: var(--Violet);
+        background: url(../../images/bg-desktop.svg) no-repeat var(--violet);
         background-size: cover;
-        background-repeat: no-repeat;
     }
     .logo img{
         margin: 70px 90px;
